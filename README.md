@@ -22,6 +22,3 @@
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emitlight&layout=compact&theme=radical)](https://github.com/emitlight)
-
-## GitHub Contribution Graph
-![emitlight's GitHub Contribution Graph](https://github.com/emitlight)
