@@ -1,8 +1,8 @@
 # Hey there! 👋 I'm Hayoung Lee
 
 ## About Me
-- JAVA trainee
-- Currently learning with the following tech stack:
+- 👩‍💻 training to be ... Backend Developer | System Engineer | Infrastructure Engineer
+- 🌱 Currently learning with :
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -22,3 +22,6 @@
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emitlight&layout=compact&theme=radical)](https://github.com/emitlight)
+
+## GitHub Contribution Graph
+![emitlight's GitHub Contribution Graph](https://github.com/emitlight)
