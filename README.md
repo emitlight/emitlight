@@ -19,4 +19,4 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emitlight&layout=compact&theme=radical)](https://github.com/emitlight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emitlight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
