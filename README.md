@@ -15,4 +15,9 @@
 ![Eclipse Badge](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=flat&logo=eclipse&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emitlight&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/emitlight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emitlight&theme=light&hide_border=true&langs_count=6&title_color=01DFA5" />
+</a>
+<a href="https://github.com/emitlight">
+  <img align="center" src="https://github.com/emitlight/emitlight/assets/128894133/15ac6b32-7ea0-4138-93e5-7740a48c18cb" />
+</a>
