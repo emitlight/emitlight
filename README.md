@@ -1,10 +1,10 @@
 # Hey there! 👋 I'm Hayoung Lee
 
 ### About Me
-- 👩‍💻 training to be ... Backend Developer | System Engineer | Infrastructure Engineer
-- 🌱 Currently learning with :
+👩‍💻 training to be ... Backend Developer | System Engineer | Infrastructure Engineer<br>
+🌱 Currently learning with :
 
-#### 🗃️
+####
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
