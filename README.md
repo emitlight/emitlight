@@ -1,5 +1,5 @@
 # Hey there! 👋 I'm Hayoung Lee
-
+<div align=center>
 ### About Me
 👩‍💻 training to be ... Backend Developer | System Engineer | Infrastructure Engineer<br>
 🌱 Currently learning with :
@@ -18,3 +18,4 @@
 <a href="https://github.com/emitlight">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emitlight&theme=light&hide_border=true&langs_count=6&title_color=01DFA5" />
 </a>
+</div>
