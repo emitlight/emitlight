@@ -1,5 +1,8 @@
 # Hey there! 👋 I'm Hayoung Lee
 <div align=center>
+  
+![img_step_3](https://github.com/emitlight/emitlight/assets/128894133/ac9f7e42-ac30-4ef8-82cf-3327e14cabd5)
+
 ### About Me
 👩‍💻 training to be ... Backend Developer | System Engineer | Infrastructure Engineer<br>
 🌱 Currently learning with :
@@ -16,6 +19,10 @@
 ![VSCode Badge](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 <a href="https://github.com/emitlight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emitlight&theme=light&hide_border=true&langs_count=6&title_color=01DFA5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emitlight&layout=compact&theme=light&hide_border=true&langs_count=6&title_color=01DFA5" />
 </a>
+
+#### [ESTsoft] 백엔드 개발자 부트캠프 오르미 4기 수료
+
+![1040_9DECA48AEC8C94EDB8ECA4A5EBB8EAB0EBA8A7EC98A020(2)](https://github.com/emitlight/emitlight/assets/128894133/a096eaac-105b-4f52-abdf-751b5bd4f57c)
 </div>
