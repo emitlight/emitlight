@@ -18,6 +18,3 @@
 <a href="https://github.com/emitlight">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emitlight&theme=light&hide_border=true&langs_count=6&title_color=01DFA5" />
 </a>
-<a href="https://github.com/emitlight">
-  <img align="center" src="https://github.com/emitlight/emitlight/assets/128894133/15ac6b32-7ea0-4138-93e5-7740a48c18cb" />
-</a>
