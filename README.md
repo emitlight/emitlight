@@ -22,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emitlight&layout=compact&theme=light&hide_border=true&langs_count=6&title_color=0377fc" />
 </a>
 
-#### [ESTsoft] 백엔드 개발자 부트캠프 오르미 4기 수료중
+#### [ESTsoft] 백엔드 개발자 부트캠프 오르미 4기 수료
 
 ![image](https://github.com/emitlight/emitlight/assets/128894133/8b05efbe-c370-46ed-97aa-1849e571d533)
 
